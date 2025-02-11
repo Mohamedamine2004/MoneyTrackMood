@@ -1,0 +1,11 @@
+# Ignore node_modules for React
+node_modules/
+
+# Ignore Maven and IntelliJ specific files
+target/
+.idea/
+*.iml
+.mvn/
+
+# Ignore environment variables
+.env
